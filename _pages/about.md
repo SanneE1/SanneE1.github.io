@@ -36,7 +36,13 @@ gallery:
   
 ---
 
-research focus
+As a population ecologist, I am interested in seeing how underlying processes influence population dynamics. My work includes simulation studies, meta-species analyses and more applied conservation analyses of single species. My previous work has mostly focussed on plants (herbaceous plants) but in my current positions I'll also be focusing on animal populations.   
+
+During my Phd I've been focussed on investigating how climate influences population dynamics. In particular, I've tested long-standing assumptions about the _a priori_ assumptions of **when** climate is important to plant vital rates (e.g., survival or flower probability).
+
+
+Currently I'm using spatially explicit demographic models to examen how climate change, habitat and species interactions influence functional connectivity and population dynamics in the southern Iberian peninsula 
+
 
 ## About me
 My interest in biology and ecology started very early. The first time I as a 10 year old surfed passed the kids channels and found the "big cat diaries" marathon on Animal planet I was hooked! Since then, it has mostly been a discovery of different aspects of ecology, figuring out exactly what I find the most interesting and what I wouldn't mind not having to think about again.
