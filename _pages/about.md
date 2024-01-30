@@ -45,11 +45,11 @@ Currently I'm using spatially explicit demographic models to examen how climate 
 
 
 ## About me
-My interest in biology and ecology started very early. The first time I as a 10 year old surfed passed the kids channels and found the "big cat diaries" marathon on Animal planet I was hooked! Since then, it has mostly been a discovery of different aspects of ecology, figuring out exactly what I find the most interesting and what I wouldn't mind not having to think about again.
+My interest in biology and ecology started very early. My interest has only grown since then, although now I actually know how some of it works. Although my interests have lead me to a job that consists mostly of working behind a laptop, I do still take every oppertunity to go out and hike through nature. 
 
 Besides getting to work with amazing people, I also thoroughly enjoy the other perk of Academia; discovering new cities, countries and cultures. As I am writing this, I just moved to Sevilla a couple of months ago, and am definitely enjoying the winter here, compared to Leipzig (DE). I do realise that this "perk" often turns into the biggest dissadvantage for most people, so lets see how long it lasts!
 
-Besides work, I have several other things that take up most of my free time. First and foremost is my dog. Yes, I am a full blown millenial dog mom. Luckily, my little crazy is a great companion who helps me decompress and forces me out for little walks throughout the day, and is a great excuse to go out on hikes on the weekends to explore Sevilla and Andelucia.
+Besides work, I have several other things that take up most of my free time. First and foremost is my dog. Yes, I am a full blown millenial dog mom. Luckily, my little crazy is a great companion who helps me decompress and forces me out for little walks throughout the day, and is a great excuse to go out on hikes on the weekends to explore Sevilla and Andelucia. Second, is [Roller Derby](https://en.wikipedia.org/wiki/Roller_derby). Both Leipzig and Sevilla have amazing teams with teammates who help making the cities feel like home, and who do not mind helping me decompress from deadline-stress through hugs and bruises!  
 
 {% include gallery caption="Photo credits: Sanne M. Evers" %}
 
