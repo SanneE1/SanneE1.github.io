@@ -124,7 +124,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-          image: /assets/images/deer_mist_small.jpg
+          image: /assets/images/deer_mist_small.JPG
           caption: "Photo credit: Sanne M. Evers"
 
 category_archive:
