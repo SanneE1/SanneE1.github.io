@@ -85,10 +85,10 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-at"
+      icon: "fas fa-fw fa-at"
       url: "mailto:smaria.evers@ebd.csic.es"
     - label: "Google scholar"
-      icon: "fab fa-brands fa-google-scholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=HXHVrYEAAAAJ&hl=en"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
