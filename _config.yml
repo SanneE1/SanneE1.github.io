@@ -88,7 +88,7 @@ footer:
       icon: "fas fa-fw fa-at"
       url: "mailto:smaria.evers@ebd.csic.es"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=HXHVrYEAAAAJ&hl=en"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
