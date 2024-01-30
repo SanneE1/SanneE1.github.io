@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sanne M. Evers
-email:
+email: sanne.evers@ebd.csic.es
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Sanne Maria Evers with full cv and all that
 #twitter_username: username
@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Mixing curiosity with late-night coding."
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-at"
-      url: "mailto:smaria.evers@ebd.csic.es"
+    #- label: "Email"
+    #  icon: "fab fa-fw fa-at"
+    #  url: "mailto:smaria.evers@ebd.csic.es"
     - label: "Google scholar"
       icon: "fab fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=HXHVrYEAAAAJ&hl=en"
