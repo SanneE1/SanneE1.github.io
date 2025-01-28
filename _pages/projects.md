@@ -1,9 +1,15 @@
----
+![image](https://github.com/user-attachments/assets/f92c8768-8c22-4d1c-8757-cfa433b25359)![image](https://github.com/user-attachments/assets/f24f2afd-a9ec-4be3-a750-cc5ba219240d)---
 title: "Projects"
 permalink: /projects/
 ---
 
 ## Current
+
+### ICOM: Developing a scalable individual-based ecosystem model to understand human impacts in complex natural systems.  
+**Funded by:** MOMENTUM CSIC  
+**Role:** Researcher (postdoc)  
+**My work includes:** Integrating existing databases and literature. Infere vital rates from gathered data. Develop automated workflows for integrating new census data. Developing an individual-based digital twin of Doñana for short term forecasts.
+[More info here](https://globalchangeeco.com/icom) and [here]()
 
 ### NaturaConnect
 Building a resilient ecological network of conserved areas across Europe for nature and people.   
