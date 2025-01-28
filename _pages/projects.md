@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f92c8768-8c22-4d1c-8757-cfa433b25359)![image](https://github.com/user-attachments/assets/f24f2afd-a9ec-4be3-a750-cc5ba219240d)---
+
 title: "Projects"
 permalink: /projects/
 ---
