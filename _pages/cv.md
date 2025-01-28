@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6ab73786-88d2-4cb4-a0f4-f54f6024253b)---
+---
 title: "CV"
 permalink: /cv/
 ---
