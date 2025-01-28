@@ -1,26 +1,16 @@
----
+![image](https://github.com/user-attachments/assets/6ab73786-88d2-4cb4-a0f4-f54f6024253b)---
 title: "CV"
 permalink: /cv/
 ---
 
-Education
-======
-
-* **2023 PhD. Biology - Martin-Luther-University Halle-Wittenberg (MLU)**
-    * Title: "Exploring the complexities of climate driver timing: Insights at the levels of vital rates and population dynamics"
-    * Supervisors: Tiffany Knight & Aldo Compagnoni  
-* **2017 MSc. Biology - Wageningen University, Netherlands**
-    * Specialisation: Conservation and Systems Ecology
-    * Thesis: "The correlation between Primary Production and Predator Prey Ratios, a Global Analysis"
-    * Internship: "Mammal Species Inventory and Habitat Use in Ntchisi Forest Reserve, Malawi"
-* **2015 BSc. Biology - Wageningen University, Netherlands**
-    * Major: Ecology and Biodiversity  
-    * Minor: Wildlife Biodiversity  
-
-
 Research experience
 ======
-
+* **2024-2028: Post-doc researcher at EBD-CSIC (Spain)**
+    * Project: Developing a scalable individual-based ecosystem model to understand human impacts in complex natural systems
+         * See [project website](https://globalchangeeco.com/icom)  
+* **2023-2024: Post-doc researcher at EBD-CSIC (Spain)**
+    * Investigate the role of vital rates and species interactions in connectivity of the Iberian lynx and European rabbit in southern Spain;
+        * Part of the NaturaConnect Case study of Doñana   
 * **2019-2023: Doctoral Researcher at iDiv, UFZ and MLU (Germany)**  
     * Methods used include;
         * Matrix population models
@@ -43,6 +33,21 @@ Research experience
     * Digitizing published matrix population models into COMAPDRE
     * Digitizing published integral projection models into PADRINO
     * Using QGIS to enter individual level information (like size) on carpobrotus spp. populations from pictures
+
+
+Education
+======
+
+* **2023 PhD. Biology - Martin-Luther-University Halle-Wittenberg (MLU)**
+    * Title: "Exploring the complexities of climate driver timing: Insights at the levels of vital rates and population dynamics"
+    * Supervisors: Tiffany Knight & Aldo Compagnoni  
+* **2017 MSc. Biology - Wageningen University, Netherlands**
+    * Specialisation: Conservation and Systems Ecology
+    * Thesis: "The correlation between Primary Production and Predator Prey Ratios, a Global Analysis"
+    * Internship: "Mammal Species Inventory and Habitat Use in Ntchisi Forest Reserve, Malawi"
+* **2015 BSc. Biology - Wageningen University, Netherlands**
+    * Major: Ecology and Biodiversity  
+    * Minor: Wildlife Biodiversity  
 
 Other activities
 ======
@@ -72,5 +77,5 @@ Languages & Program Skills
 * **Git:** Advanced
 * **QGIS:** Basic
 * **Python:** Basic
-* **Free Pascal:** Beginner
+* **Free Pascal:** Advanced
 
