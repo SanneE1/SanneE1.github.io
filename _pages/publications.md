@@ -12,6 +12,9 @@ advance our understanding of population responses to climate. Ecography, 2024:
 e06833. doi: [10.1111/ecog.06833](https://doi.org/10.1111/ecog.06833)  
 **Open access**
 
+Serediuk, H., Jackson, J., **Evers, S. M.**, & Paniw, M. (2024). Comparative life‐history responses of lacewings to changes in temperature. Ecology and Evolution, 14(7), e70000. doi: [10.1002/ece3.70000](https://doi.org/10.1002/ece3.70000)  
+**Open access**  
+
 ## 2023
 
 **Evers, S. M.**, Knight, T. M., & Compagnoni, A. (2023). The inclusion of
