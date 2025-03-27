@@ -5,16 +5,16 @@ permalink: /teaching/
 
 ## Supervision
 
-- Chiara Bianciardi (2024/2025)
-Master thesis; title: "tbd"
-_at the University of Neuchâtel and the Biological research station of Doñana_
+- Chiara Bianciardi (2024/2025)  
+Master thesis; title: "tbd"  
+_at the University of Neuchâtel and the Biological research station of Doñana_  
 Topic: Using a spatially explicit individual-based model to simulate population level consequences of inbreeding coefficient on the Iberian Lynx.
 
 
-- Konrad Adler ()
-Master thesis; title: “The prevalence and duration of lagged climate effects across
-different plant histories” 
+- Konrad Adler (2022)  
+Master thesis; title: “The prevalence and duration of lagged climate effects across different plant life-histories”   
 _at the Martin Luther University Halle-Wittenberg_
+Topic: Investigate the best predictive climate time-window for plant vital rates of species with a wide range of generation time.  
 
 ## Teaching
 
