@@ -1,12 +1,26 @@
 ---
 title: "Teaching and supervision"
 permalink: /teaching/
+
+gallery:
+  - url: /assets/images/ipmr_workshop.png
+    image_path: /assets/images/ipmr_workshop.png
+    alt: "Exercises of the ipmr workshop"
+    title: "Exercises of the ipmr workshop"
+  - url: /assets/images/Konrads_results.png
+    image_path: /assets/images/Konrads_results.png
+    alt: "Graphs from Konrad's thesis"
+    title: "Graphs from Konrad's thesis"
+
 ---
 
 I have had the chance to supervise some amazing students as well as teach some interesting classes and workshops. I honestly love the work I do, and being able to share my work, and all the frustration and triump that comes with it (or any type of coding really) is something I really enjoy. I am looking forward to more oppertunerties to supervise and teach that will come my way in the future.  
 
 
 If a prospective student actually finds me, please do not hesitate to contact me to discuss our options! All my contact information is on the left side of this page!  
+
+
+{% include gallery caption="Photo credits: Sanne M. Evers" %}
 
 
 ## Supervision
