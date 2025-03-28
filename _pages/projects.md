@@ -1,18 +1,18 @@
 ---
 title: "Projects"
 permalink: /projects/
----
-gallery:
-  - url: /assets/images/Me_Alcazar.jpg
-    image_path: /assets/images/Me_Alcazar.jpg
-    alt: "Me in Real Alcazar, Sevilla"
-    title: "Me in Real Alcazar, Sevilla"
-  - url: /assets/images/Hungary.jpg
-    image_path: /assets/images/Hungary.jpg
-    alt: "Landscape Hungary"
-    title: "Reflections in Hungary"
 
-{include gallery}  
+gallery:
+  - url: /assets/images/screen_shot_rabbit_lynx_model.png
+    image_path: /assets/images/screen_shot_rabbit_lynx_model.png
+    alt: "graph of lynx population size for a test run on small made-up map"
+    title: "graph of lynx population size for a test run on small made-up map"
+  - url: /assets/images/Lynx_Females_traveled.png
+    image_path: /assets/images/Lynx Females traveled.png
+    alt: "Map of the Iberian peninsula with area's traveld by females in one simulation with static breeding habitat"
+    title: "Map of the Iberian peninsula with area's traveld by females in one simulation with static breeding habitat"
+
+---
 
 ## Current
 
@@ -23,13 +23,14 @@ gallery:
 [More info here](https://globalchangeeco.com/icom) and [here]()
 
 
-
 ### Connectivity of the Iberian Lynx and the effect of species interactions 
 Building a resilient ecological network of conserved areas across Europe for nature and people.   
 **Funded by:** NaturaConnect - HORIZON-IA (2021 call).  
 **Role:** Researcher (postdoc).  
 **Topic:** Connectivity analyses are an incredible usefull tool when shaping future policy aimed at protecting and improving nature and biodiversity in Europe. However, the typical analyses are not capable of capturing the dynamic relationships species might have with their habitat. In the case of the Iberian lynx, habitat use and therefore connectivity is mostly driven by the presence and abundance of the European Rabbit. The purpose of this project is to investigate how species interactions can effect connectivity. For this purpose we use two linked spatially explicit individual based models of the Iberian Lynx and European Rabbit.   
 [More info here](https://naturaconnect.eu/)
+
+{include gallery}  
 
 ## Past
 
