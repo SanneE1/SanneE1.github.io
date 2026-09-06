@@ -38,10 +38,12 @@ gallery:
 
 As a population ecologist, I am interested in seeing how underlying processes influence population dynamics. My work includes simulation studies, meta-species analyses and more applied conservation analyses of single species. My previous work has mostly focussed on (herbaceous) plants but in my current positions I'm focusing on animal populations.   
 
-During my Phd I've been focussed on investigating how climate influences population dynamics. In particular, I've tested long-standing assumptions about the _a priori_ assumptions of **when** climate is important to plant vital rates (e.g., survival or flower probability).
+Currently I'm using spatially explicit demographic models to create a Digital Twin of the terrestrial ecosystem of Doñana National Park. This digital twin will include several throphic levels and include species interactions. We are working on creating automated, open-source and interchangable workflows. The final digital twin will create short-term forecasts of the whole ecosystem and will have an interface allowing those interested in "testing out" different conservation actions and observe the modeled outcomes throughout the ecosystem. A current prototype of the digital twin can be found [here](https://donanadt.lifewatch.dev/app/donanadt).   
+In addition to the digital twin of the Doñana national park, I am using similar population models to project future densities of the European Rabbit. I am also using the results of these projections for a Population Viability Analysis of the Iberian Lynx in collaboration with the LynxConnect LIFE project.  
 
-Currently I'm using spatially explicit demographic models to adress several several pressing conservation questions. First, I'm collaborating with several collegues at the EBD, NaturaConnect and LynxConnect to model the population dynamics of the Iberian Lynx. The purpose of the model is to increase our understanding of the current state of the Iberian Lynx subpopulations. The model is linked to a similar model for the European Rabbit, allowing us to investigate how the interaction between these two species influences our predictions.  
-In addition, as part of
+Outside of these projects, I am active as a member of the steering committee of the Ecological Forecasting Initiative, European Chapter. My efforts here are focused on improving the forecasting communitee in Europe, and I am directly involved in the development of the first [European Forecasting Challenge](https://donanadt.lifewatch.dev/app/donana-forecast)
+
+If you are interested in collaborating in any of the projectes mentioned, feel free to reach out to me through the channels listed on this page!
 
 
 ## About me

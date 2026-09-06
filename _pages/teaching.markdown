@@ -14,7 +14,7 @@ gallery:
 
 ---
 
-I have had the chance to supervise some amazing students as well as teach some interesting classes and workshops. I honestly love the work I do, and being able to share my work, and all the frustration and triump that comes with it (or any type of coding really) is something I really enjoy. I am looking forward to more oppertunerties to supervise and teach that will come my way in the future.  
+I have had the chance to supervise some amazing students as well as teach some interesting classes and workshops. I honestly love the work I do, and being able to share my work, and all the frustration and triumph that comes with it (or any type of coding really) is something I really enjoy. I am looking forward to more opportunities to supervise and teach that will come my way in the future.  
 
 
 If a prospective student actually finds me, please do not hesitate to contact me to discuss our options! All my contact information is on the left side of this page!  
@@ -26,7 +26,7 @@ If a prospective student actually finds me, please do not hesitate to contact me
 ## Supervision
 
 - Chiara Bianciardi (2024/2025)  
-Master thesis; title: "tbd"  
+Master thesis; title: "Assessing the effects of inbreeding depression on vital rates in the Iberian lynx: insights from a spatially explicit individual based model"  
 _at the University of Neuchâtel and the Biological research station of Doñana_  
 Topic: Using a spatially explicit individual-based model to simulate population level consequences of inbreeding coefficient on the Iberian Lynx.
 
@@ -38,7 +38,7 @@ Topic: Investigate the best predictive climate time-window for plant vital rates
 
 ## Teaching
 
-- "Conservation Biology - Populations" (2023/2024)  
+- "Conservation Biology - Populations" (2023|2024|2025)  
 2-day Master elective course at Pablo de Olavide University Sevilla  
    
 - Conference Workshops  
