@@ -36,15 +36,11 @@ gallery:
   
 ---
 
-As a population ecologist, I am interested in seeing how underlying processes influence population dynamics. My work includes simulation studies, meta-species analyses and more applied conservation analyses of single species. My previous work has mostly focussed on (herbaceous) plants but in my current positions I'm focusing on animal populations.   
+My research sits at the intersection of population ecology and ecological forecasting. I’m interested in how the processes that shape individual life histories add up to population and community dynamics. I test these ideas with simulation studies, comparative analyses across many species, and applied conservation work on single populations. I started out on herbaceous plants and now work mostly on animal populations.
 
-Currently I'm using spatially explicit demographic models to create a Digital Twin of the terrestrial ecosystem of Doñana National Park. This digital twin will include several throphic levels and include species interactions. We are working on creating automated, open-source and interchangable workflows. The final digital twin will create short-term forecasts of the whole ecosystem and will have an interface allowing those interested in "testing out" different conservation actions and observe the modeled outcomes throughout the ecosystem. A current prototype of the digital twin can be found [here](https://donanadt.lifewatch.dev/app/donanadt).   
-In addition to the digital twin of the Doñana national park, I am using similar population models to project future densities of the European Rabbit. I am also using the results of these projections for a Population Viability Analysis of the Iberian Lynx in collaboration with the LynxConnect LIFE project.  
+A large part of my current work is the Doñana Digital Twin, an ecological model of Doñana Natural Area in southwest Spain, a Mediterranean biodiversity hotspot under climate and land-use pressure. [PRE-PRINT OUT NOW!](https://ecoevorxiv.org/repository/view/15591/). The question driving it is how decades of monitoring data, usually scattered across separate projects, can be combined into mechanistic forecasts that get updated as new evidence comes in. The model links demographic, abundance and occurrence models through species interactions, carries uncertainty from climate and other drivers through to its predictions, and is built so that new species, models and data streams can be added. The long-term goal is to give managers forecasts they can use for adaptive management, and to make the approach transferable to other protected areas with good data but no integrated forecasting tools.
 
-Outside of these projects, I am active as a member of the steering committee of the Ecological Forecasting Initiative, European Chapter. My efforts here are focused on improving the forecasting communitee in Europe, and I am directly involved in the development of the first [European Forecasting Challenge](https://donanadt.lifewatch.dev/app/donana-forecast)
-
-If you are interested in collaborating in any of the projectes mentioned, feel free to reach out to me through the channels listed on this page!
-
+I also contribute to the [Ecological Forecasting Initiative (European Chapter)](https://euro-ecoforecast.wordpress.com/) as a steering committee member.  
 
 ## About me
 My interest in biology and ecology started very early. My interest has only grown since then, although now I actually know how some of it works. Although my interests have lead me to a job that consists mostly of working behind a laptop, I do still take every oppertunity to go out and hike through nature. 
